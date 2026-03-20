@@ -1,50 +1,118 @@
-### Hey — I'm __CyberByteX-7 👋
+<div align="center">
 
-I'm an AI engineer based in India, obsessed with building things at the edge of what's possible with intelligent systems.
+# CyberByteX-7
 
-I run a personal AI lab on an RTX 4090 where I experiment with local LLMs, agentic workflows, and deep learning models. Most of what I build lives somewhere between "this probably won't work" and "okay it actually works."
+**AI Engineer · Agentic Systems · LLM Infrastructure · AI Security**
 
----
-
-**What I'm into right now**
-
-- 🤖 Building agentic systems that plan, reason, and self-correct
-- 🧠 Running and fine-tuning open-source LLMs locally — no cloud required
-- 🌍 Using deep learning for real-world problems (currently: disaster prediction from satellite imagery)
-- 🔐 Understanding how AI systems break — and how to make them not break
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanta-771462289)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
+[![Showcase](https://img.shields.io/badge/AI%20Showcase-View%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberByteX-7/ai-showcase)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/alanta-771462289)
 
 ---
 
-**My stack**
+*I don't just use AI — I build the infrastructure underneath it.*
+
+</div>
+
+---
+
+## Who I am
+
+Full-Stack AI Engineer based in India. I build intelligent systems end-to-end — from training models on raw data to deploying production-grade agentic pipelines on self-hosted hardware.
+
+I run a personal AI lab on an **RTX 4090** where I benchmark, fine-tune, and deploy open-source LLMs around the clock. I work at the systems level — not just API calls, but quantization tradeoffs, inference optimization, agent orchestration, and adversarial robustness.
+
+The work I do sits at three intersections most engineers don't combine:
+
+> **Generative AI** × **Agentic Systems** × **AI Security**
+
+---
+
+## What I build
 
 ```python
-stack = {
-    "daily_drivers" : ["Python", "PyTorch", "LangGraph", "Ollama"],
-    "llm_tools"     : ["LangChain", "LlamaIndex", "vLLM", "HuggingFace"],
-    "ml_frameworks" : ["TensorFlow", "Scikit-learn", "OpenCV"],
-    "infra"         : ["Docker", "FastAPI", "Linux", "CUDA"],
-    "models_i_run"  : ["DeepSeek-V3", "Qwen 2.5 Coder", "GLM-4"],
+profile = {
+    "agentic_systems"  : "Multi-agent pipelines · ReAct loops · self-correcting agents",
+    "model_training"   : "Training from scratch · LoRA · QLoRA · SFT · custom loss",
+    "llm_deployment"   : "Ollama · vLLM · GGUF quantization · OpenAI-compatible APIs",
+    "rag_pipelines"    : "Hybrid search · re-ranking · GraphRAG · streaming RAG",
+    "computer_vision"  : "Segmentation · object detection · satellite image analysis",
+    "nlp"              : "Transformers · embeddings · NER · summarization · DSPy",
+    "ai_security"      : "Prompt injection · adversarial ML · LLM red teaming",
+    "mlops"            : "Experiment tracking · Docker · model versioning · CI/CD",
 }
 ```
 
 ---
 
-**Open to collaborating on**
+## Featured projects
 
-- 🔬 AI/ML research projects and experiments
-- 🤝 Open-source LLM tooling and agentic frameworks
-- 🌐 Real-world AI applications with social impact
-- 💡 Anything weird, ambitious, or unsolved
+### 🌍 Earth Digital Twin — Multi-Hazard Disaster Prediction
+A full Digital Twin framework for real-time environmental monitoring and early disaster warning. Integrates CNN spatial analysis, LSTM temporal forecasting, and live weather API data into a unified prediction platform covering floods, landslides, and food insecurity.
 
-If you're building something interesting in AI — reach out. I'm always up for a good problem.
+`Python` `PyTorch` `TensorFlow` `Tomorrow.io API` `Sentinel/MODIS Satellite Data` `GeoPandas`
 
 ---
 
-**Find me**
+### 🤖 Agentic Coding Framework — Self-Hosted LLM Orchestration
+A modular, production-grade agentic coding system built entirely on local inference. Features autonomous task planning, multi-step tool-use routing, and self-correction loops — running DeepSeek-V3, Qwen 2.5 Coder, and GLM-4 on an RTX 4090 with Q4/Q8 quantization.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanta-771462289)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
+`Python` `Ollama` `LangGraph` `LangChain` `FastAPI` `ChromaDB` `vLLM`
 
 ---
 
-*India 🇮🇳 · Building quietly, shipping loudly.*
+### 🌊 Flood Probability Mapping — Deep Learning on Satellite Data
+Per-pixel flood probability prediction using a ResNet-inspired encoder-decoder architecture with skip connections. Built on multispectral satellite imagery using NDWI-based water detection, with a full GIS pipeline from data ingestion to geospatial risk map generation.
+
+`Python` `TensorFlow` `GDAL` `Rasterio` `NumPy` `Remote Sensing Datasets`
+
+---
+
+### 🔐 AI Red Team Framework — LLM Safety & Security Evaluation
+A structured red teaming toolkit for systematic LLM security evaluation. Covers 50+ prompt injection patterns, jailbreak analysis, FGSM/PGD adversarial attacks on vision models, and an input sanitization defense layer.
+
+`Python` `PyTorch` `FastAPI` `Adversarial ML`
+
+> 📂 **60+ implementations across all AI domains →** [ai-showcase](https://github.com/CyberByteX-7/ai-showcase)
+
+---
+
+## Tech stack
+
+| Domain | Tools |
+|---|---|
+| **Languages** | Python · C++ · Bash · SQL |
+| **Deep Learning** | PyTorch · TensorFlow · Keras · HuggingFace · Scikit-learn |
+| **LLM & Agents** | LangChain · LangGraph · LlamaIndex · Ollama · vLLM · llama.cpp |
+| **RAG & Vector** | FAISS · ChromaDB · pgvector · LlamaIndex · BM25 |
+| **Computer Vision** | OpenCV · GDAL · Rasterio · Ultralytics · timm |
+| **MLOps** | Docker · FastAPI · WandB · MLflow · GitHub Actions |
+| **Infrastructure** | Linux · CUDA · Git · Redis · PostgreSQL |
+| **Security** | Adversarial ML · Prompt Injection Defense · Red Teaming |
+
+---
+
+## Open to collaborating on
+
+- Agentic AI systems and autonomous multi-agent frameworks
+- LLM fine-tuning, evaluation, and alignment research
+- AI for real-world impact — climate, disaster response, healthcare
+- AI security — red teaming, adversarial robustness, safe deployment
+- Open-source LLM tooling, inference optimization, developer infrastructure
+
+> Got something worth building? I respond fast.
+
+---
+
+<div align="center">
+
+**India 🇮🇳 · Identity redacted · Code is public**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanta-771462289)
+[![Email](https://img.shields.io/badge/alantantony07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
+[![Work](https://img.shields.io/badge/Browse%20My%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberByteX-7/ai-showcase)
+
+*"The best way to prove you can build AI — is to build AI."*
+
+</div>
