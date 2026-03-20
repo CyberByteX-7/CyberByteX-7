@@ -2,7 +2,7 @@
 
 # CyberByteX-7
 
-**AI Engineer · Agentic Systems · LLM Infrastructure · AI Security**
+**AI Engineer · Agents that reason. Models that ship. Systems that don't break.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanta-771462289)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
