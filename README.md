@@ -19,11 +19,13 @@
 
 ## Who I am
 
-Full-Stack AI Engineer based in India. I build intelligent systems end-to-end — from training models on raw data to deploying production-grade agentic pipelines on self-hosted hardware.
+While most engineers consume AI, I build the infrastructure underneath it.
 
-I run a personal AI lab on an **RTX 4090** where I benchmark, fine-tune, and deploy open-source LLMs around the clock. I work at the systems level — not just API calls, but quantization tradeoffs, inference optimization, agent orchestration, and adversarial robustness.
+I run a personal AI lab where open-source models get trained, broken,
+optimized, and shipped — no cloud dependency, no black-box APIs.
+Just deep systems work, from architecture to deployment.
 
-The work I do sits at three intersections most engineers don't combine:
+The rare intersection I've made my own:
 
 > **Generative AI** × **Agentic Systems** × **AI Security**
 
