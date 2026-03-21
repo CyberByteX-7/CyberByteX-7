@@ -88,7 +88,7 @@ A structured red teaming toolkit for systematic LLM security evaluation. Covers 
 **Identity redacted · Code is public**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanta-771462289)
-[![Email](https://img.shields.io/badge/alantantony07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
 [![Work](https://img.shields.io/badge/Browse%20My%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberByteX-7/ai-showcase)
 
 *"The best way to prove you can build AI — is to build AI."*
