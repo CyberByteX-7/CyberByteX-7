@@ -1,6 +1,6 @@
 <div align="center">
 
-# CyberByteX-7
+# __CyberByteX-7
 
 **AI Engineer · Agents that reason. Models that ship. Systems that don't break.**
 
@@ -58,16 +58,9 @@ A full Digital Twin framework for real-time environmental monitoring and early d
 ---
 
 ### 🤖 Agentic Coding Framework — Self-Hosted LLM Orchestration
-A modular, production-grade agentic coding system built entirely on local inference. Features autonomous task planning, multi-step tool-use routing, and self-correction loops — running DeepSeek-V3, Qwen 2.5 Coder, and GLM-4 on an RTX 4090 with Q4/Q8 quantization.
+A modular, production-grade agentic coding system built entirely on local inference. Features autonomous task planning, multi-step tool-use routing, and self-correction loops — running DeepSeek-V3, Qwen 2.5 Coder, and GLM-4 with Q4/Q8 quantization.
 
 `Python` `Ollama` `LangGraph` `LangChain` `FastAPI` `ChromaDB` `vLLM`
-
----
-
-### 🌊 Flood Probability Mapping — Deep Learning on Satellite Data
-Per-pixel flood probability prediction using a ResNet-inspired encoder-decoder architecture with skip connections. Built on multispectral satellite imagery using NDWI-based water detection, with a full GIS pipeline from data ingestion to geospatial risk map generation.
-
-`Python` `TensorFlow` `GDAL` `Rasterio` `NumPy` `Remote Sensing Datasets`
 
 ---
 
@@ -109,7 +102,7 @@ A structured red teaming toolkit for systematic LLM security evaluation. Covers 
 
 <div align="center">
 
-**India 🇮🇳 · Identity redacted · Code is public**
+**Identity redacted · Code is public**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanta-771462289)
 [![Email](https://img.shields.io/badge/alantantony07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alantantony07@gmail.com)
