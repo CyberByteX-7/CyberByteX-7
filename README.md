@@ -90,9 +90,9 @@ A structured red teaming toolkit for systematic LLM security evaluation. Covers 
 
 - Agentic AI systems and autonomous multi-agent frameworks
 - LLM fine-tuning, evaluation, and alignment research
-- AI for real-world impact — climate, disaster response, healthcare
+- AI for real-world impact 
 - AI security — red teaming, adversarial robustness, safe deployment
-- Open-source LLM tooling, inference optimization, developer infrastructure
+- LLM tooling, inference optimization, developer infrastructure
 
 > Got something worth building? I respond fast.
 
