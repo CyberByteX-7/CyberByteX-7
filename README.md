@@ -71,21 +71,6 @@ A structured red teaming toolkit for systematic LLM security evaluation. Covers 
 
 ---
 
-## Tech stack
-
-| Domain | Tools |
-|---|---|
-| **Languages** | Python · C++ · Bash · SQL |
-| **Deep Learning** | PyTorch · TensorFlow · Keras · HuggingFace · Scikit-learn |
-| **LLM & Agents** | LangChain · LangGraph · LlamaIndex · Ollama · vLLM · llama.cpp |
-| **RAG & Vector** | FAISS · ChromaDB · pgvector · LlamaIndex · BM25 |
-| **Computer Vision** | OpenCV · GDAL · Rasterio · Ultralytics · timm |
-| **MLOps** | Docker · FastAPI · WandB · MLflow · GitHub Actions |
-| **Infrastructure** | Linux · CUDA · Git · Redis · PostgreSQL |
-| **Security** | Adversarial ML · Prompt Injection Defense · Red Teaming |
-
----
-
 ## Open to collaborating on
 
 - Agentic AI systems and autonomous multi-agent frameworks
