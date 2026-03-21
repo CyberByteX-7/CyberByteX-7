@@ -69,8 +69,6 @@ A structured red teaming toolkit for systematic LLM security evaluation. Covers 
 
 `Python` `PyTorch` `FastAPI` `Adversarial ML`
 
-> 📂 **60+ implementations across all AI domains →** [ai-showcase](https://github.com/CyberByteX-7/ai-showcase)
-
 ---
 
 ## Tech stack
