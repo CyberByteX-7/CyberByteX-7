@@ -1,6 +1,6 @@
 <div align="center">
 
-# __CyberByteX-7
+# CyberByteX-7
 
 **AI Engineer · Agents that reason. Models that ship. Systems that don't break.**
 
