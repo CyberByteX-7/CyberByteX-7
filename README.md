@@ -73,11 +73,11 @@ A structured red teaming toolkit for systematic LLM security evaluation. Covers 
 
 ## Open to collaborating on
 
-- Agentic AI systems and autonomous multi-agent frameworks
-- LLM fine-tuning, evaluation, and alignment research
-- AI for real-world impact 
-- AI security — red teaming, adversarial robustness, safe deployment
-- LLM tooling, inference optimization, developer infrastructure
+- Building agents that actually finish tasks, not just start them
+- Fine-tuning models on problems nobody has a dataset for yet
+- Turning AI research papers into working code
+- Finding how LLM systems break — before users do
+- Making local inference fast enough that cloud becomes optional
 
 > Got something worth building? I respond fast.
 
